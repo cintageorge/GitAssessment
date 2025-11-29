@@ -7,7 +7,7 @@ public class SimpleProgram {
 		System.out.println("This is a sample program ");
 		int a=5,b=5;
 		int sum=a+b;
-		System.out.println("Total: "+ sum);
+		System.out.println("Sum : "+ sum);
 	}
 
 }
